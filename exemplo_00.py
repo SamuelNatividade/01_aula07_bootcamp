@@ -22,4 +22,3 @@ def soma_(valor_1_para_somar: float , valor_2_para_somar: float = 10) -> float:
     return resultado_da_soma
 
 print(soma(valor_1_para_somar= valor_1, valor_2_para_somar = valor_2))
-
